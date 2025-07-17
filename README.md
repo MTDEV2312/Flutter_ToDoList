@@ -141,26 +141,27 @@ lib/
 
 ### Inicio de Sesión
 *Evidencia del sistema de autenticación con registro e inicio de sesión*
-
-![Pantalla de Login](screenshots/login_screen.png)
-
+![loginxd](https://github.com/user-attachments/assets/f24a0a14-344f-42e4-a862-02049ca35c1a)
 
 ### Lista de Tareas
 *Vista principal de la aplicación mostrando las tareas del usuario*
 
-![Lista de Tareas - Vista General](screenshots/tasks_list.png)
+![task](https://github.com/user-attachments/assets/11493617-66e8-4ba4-b17a-929f29236b54)
+
 *Lista completa de tareas con filtros y opciones de gestión*
 
 ### Formulario para Agregar Nuevas Tareas
 *Proceso completo de creación de una nueva tarea*
 
-![Formulario de Nueva Tarea](screenshots/add_task_form.png)
+![login](https://github.com/user-attachments/assets/21b7f3e6-5f03-44af-9541-cd58ffb972fa)
+
 *Formulario con título, imagen, fecha y opciones de compartir*
 
 ### Transacciones con Supabase
 *Evidencia de las operaciones realizadas con la base de datos*
 
-![Dashboard Supabase - Tabla Tasks](screenshots/supabase_table.png)
+<img width="567" height="144" alt="dashboard" src="https://github.com/user-attachments/assets/80672191-bc4c-47b8-ba2c-e1b64474cbc5" />
+
 *Vista de la tabla 'tasks' en el dashboard de Supabase*
 
 # Flutter_ToDoList
